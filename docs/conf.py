@@ -19,8 +19,8 @@ import recommonmark
 # -- Project information -----------------------------------------------------
 
 project = 'Bioinformatic Workbook'
-copyright = '2020, ISU Genome Informatic Facilitys'
-author = 'ISU Genome Informatic Facilitys'
+copyright = '2011 - 2020, ISU Genome Informatics Facilities'
+author = 'ISU Genome Informatics Facilities'
 
 # The full version, including alpha/beta/rc tags
 release = '0.1'
